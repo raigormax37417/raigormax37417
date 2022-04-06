@@ -4,15 +4,13 @@
   </head>
   <body>
     <div>
-      <h3>👋 Hi, I’m @raigormax</h3>
-      👀 <p>I’m interested in ...<strong>Formula 1</strong>,<strong> Football </strong>,<strong> Linux </strong></p>
-        <p>🌱 I’m currently learning ... about new technologies, linux content and appearance, and i use neovim to editing my coding files or programming.</p>
-      <p>💞️ I’m looking to collaborate on ... any person.</p>
-<p> My favorite Football team was Philadelphia Eagles, and all my support to Checo in Formula 1, in this season.</p>
-      <p>📫 How to reach me ... on my social media, or my email. </p>
+      <h1>👋 Hi, I’m @raigormax</h1>
+      👀 <h3>I’m interested in <strong>Formula 1</strong>,<strong> Football </strong>,<strong> Linux </strong></h3>
+        <h4>🌱 I’m currently learning ... about new technologies, linux content and appearance, and i use neovim to editing my coding files or programming.</h4>
+<h4> My favorite football team was Philadelphia Eagles, and all my support to Checo in Formula 1, in this season.</h4>
     </div>
     <div>
-      <h1>My Skills</h1>
+      <h2>My Skills</h2>
       <div class="skills">
         <img style="width: 164px; height: 164px; " src="https://images.vexels.com/media/users/3/166403/isolated/preview/a5a33bf3004830a2bd581e9fa65de660-javascript-programming-language-icon-by-vexels.png">
         <img style="width: 164px; height: 164px;" src="https://www.designbust.com/download/240/png/php_icon512.png">
