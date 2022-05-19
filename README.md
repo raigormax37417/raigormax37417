@@ -17,6 +17,11 @@
         <img style="width: 164px; height: 164px;" src="https://icons.iconarchive.com/icons/dakirby309/simply-styled/256/OS-Linux-icon.png">
         <img style="width: 256px; height: 190px;" src="https://png.pngitem.com/pimgs/s/206-2069813_file-css-and-html-css-logo-svg-hd.png">
       </div>
+      <div>
+        <h2>Frameworks</h2>
+        <img style="width: 164px; height: 200px;" src="https://sytoss-live-10d81101576e4742896edfa4fb-3e648de.aldryn-media.com/filer_public/d6/7d/d67dc123-0c4d-42cf-8d84-af7c02ec7dd5/angular-logo-min.jpg">
+        <img style="width: 400px; height: 200px;" src="https://www.milleunovetrine.it/wp-content/uploads/2020/09/installazione-xampp-laravel-composer-git-1000x525.jpg">
+      </div>
       <div class="myFavoriteEditor">
         <h4>My Favorite Editor</h4>
        <img style="width: 164px; height: 164px" src="http://koron.github.io/vimconf-2014-koron/images/vim-logo-large.png">
