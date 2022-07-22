@@ -15,7 +15,7 @@
         <h2>Programming Languages</h2>
         <img style="width: 164px; height: 164px; " src="https://images.vexels.com/media/users/3/166403/isolated/preview/a5a33bf3004830a2bd581e9fa65de660-javascript-programming-language-icon-by-vexels.png">
         <img style="width: 164px; height: 164px;" src="https://www.designbust.com/download/240/png/php_icon512.png">
-        <img style="width: 256px; height: 190px;" src="https://png.pngitem.com/pimgs/s/206-2069813_file-css-and-html-css-logo-svg-hd.png">
+        <img style="width: 350px; height: 180px;" src="https://allprowebdesigns.com/blog/wp-content/uploads/2019/01/1lJ32Bl-lHWmNMUSiSq17gQ-792x445.png">
         <img style="width: 250px; height: 190px;" src="http://lh3.googleusercontent.com/-19-pEa2WYkA/Tu4MlsmBD2I/AAAAAAAAA1E/3V9LJoQgTSA/w1200-h630-p-k-no-nu/javalogo.jpg">
       </section>
       <section>
