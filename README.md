@@ -7,7 +7,7 @@
       <h1>👋 Hi, I’m Marco Orozco</h1>
       <h3>I’m interested about <strong>new Technology, Formula 1, Football and Linux. </strong></h3>
       <h4>🌱 I’m currently learning about new technologies, linux content and appearance, and i use neovim to editing my coding files or programming.</h4>
-<h4> My favorite football team was Philadelphia Eagles, and all my support to Checo in Formula 1, in this season.</h4>
+<h4> My favorite football team was Philadelphia Eagles, and all my support to Checo in Formula 1 in this season.</h4>
     </div>
     <div>
       <h2>My Skills</h2>
