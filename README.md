@@ -48,7 +48,7 @@
           <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original-wordmark.svg" title="Bootstrap" **alt="Bootstrap" width="80" height="80"/>&nbsp;
           <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original-wordmark.svg" title="TailwindCSS" **alt="TailwindCSS" width="80" height="80"/>&nbsp;
           <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="Docker" **alt="Docker" width="80" height="80"/>&nbsp;
-          <img src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-plain-wordmark.svg" title="Laravel" **alt="Laravel" width="80" height="80"/>&nbsp;
+          <img src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-original-wordmark.svg" title="Laravel" **alt="Laravel" width="80" height="80"/>&nbsp;
         </div>
       </section>
       <section>
