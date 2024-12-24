@@ -1,10 +1,8 @@
-<!DOCTYPE>
-<html lang="es">
-  <head>
-  </head>
-  <body>
-    <div>
-      <h1>👋 Hi, I’m Marco Orozco</h1>
+<p align="center" width="300">
+   <img align="center" width="200" src="https://avatars.githubusercontent.com/u/83655343?v=4" />
+   <h1 align="center">👋 Hi, I’m Marco Orozco</h1>
+</p>
+   <div>
       <h3>I’m interested about <strong>new Technology, Formula 1, Football and Linux. </strong></h3>
       <h4>🌱 I’m currently learning about new technologies, linux content and appearance, and i use neovim to editing my coding files or programming.</h4>
 <h4> My favorite football team was Philadelphia Eagles, and all my support to Checo in Formula 1 in this season.</h4>
@@ -71,8 +69,6 @@
        <img src="https://github.com/devicons/devicon/blob/master/icons/vim/vim-original.svg" title="Vim" **alt="Vim" width="80" height="80"/>&nbsp;
       </section>
     </div>
-  </body>
-</html>
 <!---
 raigormax37417/raigormax37417 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
